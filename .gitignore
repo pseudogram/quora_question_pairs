@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+data/*
+*.sh
+output/*
+output_conv/*
+output_lstm/*
+xtra/*
+
+.DS_Store
+.floydexpt
+.floydignore
+.idea/
